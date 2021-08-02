@@ -1,4 +1,4 @@
-### Hi I'm Alef 🧔
+### Hi I'm Alef 🤙
 
 💻 Fullstack Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Minas Gerais 🌎 Brasil
 
