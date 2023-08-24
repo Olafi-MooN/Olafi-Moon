@@ -1,6 +1,6 @@
 ### Hi I'm Alef 🤙
 
-💻 Fullstack Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Minas Gerais 🌎 Brasil
+💻 Fullstack Developer 🗾 Minas Gerais 🌎 Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-OlafiMooN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card/)](https://www.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card/)
 [![Gmail Badge](https://img.shields.io/badge/-Alef.Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefmastertutor@gmail.com)](mailto:alefmastertutor@gmail.com)
